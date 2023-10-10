@@ -1,0 +1,1898 @@
+{
+    "default_market_type_id": 1910,
+    "matches": [
+        {
+            "id": 3002012480,
+            "betradar_info": {
+                "id": "36677683",
+                "match_tracker_eligibility": true,
+                "event_type": "Match",
+                "basketball_box_score_eligibility": false
+            },
+            "competition": {
+                "id": 34,
+                "sport": {
+                    "prelive_position": 30,
+                    "inplay_position": 30,
+                    "id": 5,
+                    "name": "Rugby à XV",
+                    "position": 30
+                },
+                "relative_desktop_url": "rugby-a-xv-s5/coupe-du-monde-2023-c34",
+                "country": {
+                    "code": "ZY",
+                    "name": "",
+                    "top": {
+                        "is_top": false,
+                        "order": 0
+                    }
+                },
+                "name": "Coupe du Monde 2023",
+                "display_image": false,
+                "logo_ratio": 0,
+                "info": {
+                    "round_name": "Gr. A, J5",
+                    "match_type": 1
+                }
+            },
+            "contestants": [
+                {
+                    "name": "Nouvelle-Zélande",
+                    "short_name": "Nouvelle-Zélande",
+                    "id": 146,
+                    "display_image": true,
+                    "team_id": 4433
+                },
+                {
+                    "name": "Uruguay",
+                    "short_name": "Uruguay",
+                    "id": 129,
+                    "display_image": true,
+                    "team_id": 4438
+                }
+            ],
+            "date": "2023-10-05T19:00:00Z",
+            "has_live_streaming": true,
+            "is_live": false,
+            "grouped_markets": [
+                {
+                    "id": 3163833542,
+                    "markets": [
+                        {
+                            "id": 3163833542,
+                            "categories": [
+                                "Match"
+                            ],
+                            "has_boosted_odds": false,
+                            "is_cashoutable": true,
+                            "is_eligible_boost": true,
+                            "is_betbuilder_eligible": false,
+                            "market_description_id": 142,
+                            "market_type_code": "Rgb_Mr3",
+                            "market_type_layout": 0,
+                            "name": "Résultat",
+                            "position": 1,
+                            "selections": [
+                                [
+                                    {
+                                        "bet_trend": 0,
+                                        "id": 3564284670,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "4433",
+                                            "4438"
+                                        ],
+                                        "name": "Nouvelle-Zélande",
+                                        "odds": 1,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 8,
+                                        "id": 3564284671,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "4433",
+                                            "4438"
+                                        ],
+                                        "name": "Nul",
+                                        "odds": 50,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 92,
+                                        "id": 3564284672,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "4433",
+                                            "4438"
+                                        ],
+                                        "name": "Uruguay",
+                                        "odds": 25,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ]
+                            ],
+                            "trait": {
+                                "isMatchResultOrWinner": true
+                            },
+                            "is_main_market": false
+                        }
+                    ],
+                    "name": "Résultat",
+                    "type": 0,
+                    "layout": 0,
+                    "position": 1
+                }
+            ],
+            "name": "Nouvelle-Zélande - Uruguay",
+            "open_market_count": 7,
+            "is_betbuilder_available": false,
+            "relative_desktop_url": "nouvelle-zelande-uruguay-m3002012480",
+            "is_super_live": false
+        },
+        {
+            "id": 3001951493,
+            "betradar_info": {
+                "id": "36677685",
+                "match_tracker_eligibility": true,
+                "event_type": "Match",
+                "basketball_box_score_eligibility": false
+            },
+            "competition": {
+                "id": 34,
+                "sport": {
+                    "prelive_position": 30,
+                    "inplay_position": 30,
+                    "id": 5,
+                    "name": "Rugby à XV",
+                    "position": 30
+                },
+                "relative_desktop_url": "rugby-a-xv-s5/coupe-du-monde-2023-c34",
+                "country": {
+                    "code": "ZY",
+                    "name": "",
+                    "top": {
+                        "is_top": false,
+                        "order": 0
+                    }
+                },
+                "name": "Coupe du Monde 2023",
+                "display_image": false,
+                "logo_ratio": 0,
+                "info": {
+                    "round_name": "Gr. A, J5",
+                    "match_type": 1
+                }
+            },
+            "contestants": [
+                {
+                    "name": "France",
+                    "short_name": "France",
+                    "id": 121,
+                    "display_image": true,
+                    "team_id": 1826
+                },
+                {
+                    "name": "Italie",
+                    "short_name": "Italie",
+                    "id": 100,
+                    "display_image": true,
+                    "team_id": 1829
+                }
+            ],
+            "date": "2023-10-06T19:00:00Z",
+            "has_live_streaming": true,
+            "is_live": false,
+            "grouped_markets": [
+                {
+                    "id": 3150918937,
+                    "markets": [
+                        {
+                            "id": 3150918937,
+                            "categories": [
+                                "Match"
+                            ],
+                            "has_boosted_odds": false,
+                            "is_cashoutable": true,
+                            "is_eligible_boost": true,
+                            "is_betbuilder_eligible": false,
+                            "market_description_id": 142,
+                            "market_type_code": "Rgb_Mr3",
+                            "market_type_layout": 0,
+                            "name": "Résultat",
+                            "position": 1,
+                            "selections": [
+                                [
+                                    {
+                                        "bet_trend": 96,
+                                        "id": 3517381351,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "1826",
+                                            "1829"
+                                        ],
+                                        "name": "France",
+                                        "odds": 1.01,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 1,
+                                        "id": 3517381352,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "1826",
+                                            "1829"
+                                        ],
+                                        "name": "Nul",
+                                        "odds": 50,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 3,
+                                        "id": 3517381353,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "1826",
+                                            "1829"
+                                        ],
+                                        "name": "Italie",
+                                        "odds": 25,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ]
+                            ],
+                            "trait": {
+                                "isMatchResultOrWinner": true
+                            },
+                            "is_main_market": false
+                        }
+                    ],
+                    "name": "Résultat",
+                    "type": 0,
+                    "layout": 0,
+                    "position": 1
+                }
+            ],
+            "name": "France - Italie",
+            "open_market_count": 15,
+            "is_betbuilder_available": false,
+            "relative_desktop_url": "france-italie-m3001951493",
+            "is_super_live": false
+        },
+        {
+            "id": 3002015140,
+            "betradar_info": {
+                "id": "36677817",
+                "match_tracker_eligibility": true,
+                "event_type": "Match",
+                "basketball_box_score_eligibility": false
+            },
+            "competition": {
+                "id": 34,
+                "sport": {
+                    "prelive_position": 30,
+                    "inplay_position": 30,
+                    "id": 5,
+                    "name": "Rugby à XV",
+                    "position": 30
+                },
+                "relative_desktop_url": "rugby-a-xv-s5/coupe-du-monde-2023-c34",
+                "country": {
+                    "code": "ZY",
+                    "name": "",
+                    "top": {
+                        "is_top": false,
+                        "order": 0
+                    }
+                },
+                "name": "Coupe du Monde 2023",
+                "display_image": false,
+                "logo_ratio": 0,
+                "info": {
+                    "round_name": "Gr. C, J5",
+                    "match_type": 1
+                }
+            },
+            "contestants": [
+                {
+                    "name": "Pays de Galles",
+                    "short_name": "Pays de Galles",
+                    "id": 102,
+                    "display_image": true,
+                    "team_id": 1841
+                },
+                {
+                    "name": "Géorgie",
+                    "short_name": "Géorgie",
+                    "id": 183,
+                    "display_image": true,
+                    "team_id": 4429
+                }
+            ],
+            "date": "2023-10-07T13:00:00Z",
+            "has_live_streaming": true,
+            "is_live": false,
+            "grouped_markets": [
+                {
+                    "id": 3164139902,
+                    "markets": [
+                        {
+                            "id": 3164139902,
+                            "categories": [
+                                "Match"
+                            ],
+                            "has_boosted_odds": false,
+                            "is_cashoutable": true,
+                            "is_eligible_boost": true,
+                            "is_betbuilder_eligible": false,
+                            "market_description_id": 142,
+                            "market_type_code": "Rgb_Mr3",
+                            "market_type_layout": 0,
+                            "name": "Résultat",
+                            "position": 1,
+                            "selections": [
+                                [
+                                    {
+                                        "bet_trend": 96,
+                                        "id": 3565228706,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "1841",
+                                            "4429"
+                                        ],
+                                        "name": "Pays de Galles",
+                                        "odds": 1.05,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 0,
+                                        "id": 3565228707,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "1841",
+                                            "4429"
+                                        ],
+                                        "name": "Nul",
+                                        "odds": 30,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 4,
+                                        "id": 3565228708,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "1841",
+                                            "4429"
+                                        ],
+                                        "name": "Géorgie",
+                                        "odds": 13,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ]
+                            ],
+                            "trait": {
+                                "isMatchResultOrWinner": true
+                            },
+                            "is_main_market": false
+                        }
+                    ],
+                    "name": "Résultat",
+                    "type": 0,
+                    "layout": 0,
+                    "position": 1
+                }
+            ],
+            "name": "Pays de Galles - Géorgie",
+            "open_market_count": 19,
+            "is_betbuilder_available": false,
+            "relative_desktop_url": "pays-de-galles-georgie-m3002015140",
+            "is_super_live": false
+        },
+        {
+            "id": 3002015677,
+            "betradar_info": {
+                "id": "36677843",
+                "match_tracker_eligibility": true,
+                "event_type": "Match",
+                "basketball_box_score_eligibility": false
+            },
+            "competition": {
+                "id": 34,
+                "sport": {
+                    "prelive_position": 30,
+                    "inplay_position": 30,
+                    "id": 5,
+                    "name": "Rugby à XV",
+                    "position": 30
+                },
+                "relative_desktop_url": "rugby-a-xv-s5/coupe-du-monde-2023-c34",
+                "country": {
+                    "code": "ZY",
+                    "name": "",
+                    "top": {
+                        "is_top": false,
+                        "order": 0
+                    }
+                },
+                "name": "Coupe du Monde 2023",
+                "display_image": false,
+                "logo_ratio": 0,
+                "info": {
+                    "round_name": "Gr. D, J5",
+                    "match_type": 1
+                }
+            },
+            "contestants": [
+                {
+                    "name": "Angleterre",
+                    "short_name": "Angleterre",
+                    "id": 112,
+                    "display_image": true,
+                    "team_id": 1824
+                },
+                {
+                    "name": "Samoa",
+                    "short_name": "Samoa",
+                    "id": 181,
+                    "display_image": true,
+                    "team_id": 4435
+                }
+            ],
+            "date": "2023-10-07T15:45:00Z",
+            "has_live_streaming": true,
+            "is_live": false,
+            "grouped_markets": [
+                {
+                    "id": 3163986915,
+                    "markets": [
+                        {
+                            "id": 3163986915,
+                            "categories": [
+                                "Match"
+                            ],
+                            "has_boosted_odds": false,
+                            "is_cashoutable": true,
+                            "is_eligible_boost": true,
+                            "is_betbuilder_eligible": false,
+                            "market_description_id": 142,
+                            "market_type_code": "Rgb_Mr3",
+                            "market_type_layout": 0,
+                            "name": "Résultat",
+                            "position": 1,
+                            "selections": [
+                                [
+                                    {
+                                        "bet_trend": 94,
+                                        "id": 3564760490,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "1824",
+                                            "4435"
+                                        ],
+                                        "name": "Angleterre",
+                                        "odds": 1.06,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 1,
+                                        "id": 3564760491,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "1824",
+                                            "4435"
+                                        ],
+                                        "name": "Nul",
+                                        "odds": 40,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 5,
+                                        "id": 3564760492,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "1824",
+                                            "4435"
+                                        ],
+                                        "name": "Samoa",
+                                        "odds": 10,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ]
+                            ],
+                            "trait": {
+                                "isMatchResultOrWinner": true
+                            },
+                            "is_main_market": false
+                        }
+                    ],
+                    "name": "Résultat",
+                    "type": 0,
+                    "layout": 0,
+                    "position": 1
+                }
+            ],
+            "name": "Angleterre - Samoa",
+            "open_market_count": 19,
+            "is_betbuilder_available": false,
+            "relative_desktop_url": "angleterre-samoa-m3002015677",
+            "is_super_live": false
+        },
+        {
+            "id": 3001951491,
+            "betradar_info": {
+                "id": "36677711",
+                "match_tracker_eligibility": true,
+                "event_type": "Match",
+                "basketball_box_score_eligibility": false
+            },
+            "competition": {
+                "id": 34,
+                "sport": {
+                    "prelive_position": 30,
+                    "inplay_position": 30,
+                    "id": 5,
+                    "name": "Rugby à XV",
+                    "position": 30
+                },
+                "relative_desktop_url": "rugby-a-xv-s5/coupe-du-monde-2023-c34",
+                "country": {
+                    "code": "ZY",
+                    "name": "",
+                    "top": {
+                        "is_top": false,
+                        "order": 0
+                    }
+                },
+                "name": "Coupe du Monde 2023",
+                "display_image": false,
+                "logo_ratio": 0,
+                "info": {
+                    "round_name": "Gr. B, J5",
+                    "match_type": 1
+                }
+            },
+            "contestants": [
+                {
+                    "name": "Irlande",
+                    "short_name": "Irlande",
+                    "id": 177,
+                    "display_image": true,
+                    "team_id": 1828
+                },
+                {
+                    "name": "Écosse",
+                    "short_name": "Écosse",
+                    "id": 114,
+                    "display_image": true,
+                    "team_id": 1836
+                }
+            ],
+            "date": "2023-10-07T19:00:00Z",
+            "has_live_streaming": true,
+            "is_live": false,
+            "grouped_markets": [
+                {
+                    "id": 3150918869,
+                    "markets": [
+                        {
+                            "id": 3150918869,
+                            "categories": [
+                                "Match"
+                            ],
+                            "has_boosted_odds": false,
+                            "is_cashoutable": true,
+                            "is_eligible_boost": true,
+                            "is_betbuilder_eligible": false,
+                            "market_description_id": 142,
+                            "market_type_code": "Rgb_Mr3",
+                            "market_type_layout": 0,
+                            "name": "Résultat",
+                            "position": 1,
+                            "selections": [
+                                [
+                                    {
+                                        "bet_trend": 95,
+                                        "id": 3517381189,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "1828",
+                                            "1836"
+                                        ],
+                                        "name": "Irlande",
+                                        "odds": 1.15,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 0,
+                                        "id": 3517381190,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "1828",
+                                            "1836"
+                                        ],
+                                        "name": "Nul",
+                                        "odds": 30,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 5,
+                                        "id": 3517381191,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "1828",
+                                            "1836"
+                                        ],
+                                        "name": "Écosse",
+                                        "odds": 6.25,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ]
+                            ],
+                            "trait": {
+                                "isMatchResultOrWinner": true
+                            },
+                            "is_main_market": false
+                        }
+                    ],
+                    "name": "Résultat",
+                    "type": 0,
+                    "layout": 0,
+                    "position": 1
+                }
+            ],
+            "name": "Irlande - Écosse",
+            "open_market_count": 20,
+            "is_betbuilder_available": false,
+            "relative_desktop_url": "irlande-ecosse-m3001951491",
+            "is_super_live": false
+        },
+        {
+            "id": 3002016529,
+            "betradar_info": {
+                "id": "36677845",
+                "match_tracker_eligibility": true,
+                "event_type": "Match",
+                "basketball_box_score_eligibility": false
+            },
+            "competition": {
+                "id": 34,
+                "sport": {
+                    "prelive_position": 30,
+                    "inplay_position": 30,
+                    "id": 5,
+                    "name": "Rugby à XV",
+                    "position": 30
+                },
+                "relative_desktop_url": "rugby-a-xv-s5/coupe-du-monde-2023-c34",
+                "country": {
+                    "code": "ZY",
+                    "name": "",
+                    "top": {
+                        "is_top": false,
+                        "order": 0
+                    }
+                },
+                "name": "Coupe du Monde 2023",
+                "display_image": false,
+                "logo_ratio": 0,
+                "info": {
+                    "round_name": "Gr. D, J5",
+                    "match_type": 1
+                }
+            },
+            "contestants": [
+                {
+                    "name": "Japon",
+                    "short_name": "Japon",
+                    "id": 135,
+                    "display_image": true,
+                    "team_id": 4430
+                },
+                {
+                    "name": "Argentine",
+                    "short_name": "Argentine",
+                    "id": 125,
+                    "display_image": true,
+                    "team_id": 4425
+                }
+            ],
+            "date": "2023-10-08T11:00:00Z",
+            "has_live_streaming": true,
+            "is_live": false,
+            "grouped_markets": [
+                {
+                    "id": 3163987219,
+                    "markets": [
+                        {
+                            "id": 3163987219,
+                            "categories": [
+                                "Match"
+                            ],
+                            "has_boosted_odds": false,
+                            "is_cashoutable": true,
+                            "is_eligible_boost": true,
+                            "is_betbuilder_eligible": false,
+                            "market_description_id": 142,
+                            "market_type_code": "Rgb_Mr3",
+                            "market_type_layout": 0,
+                            "name": "Résultat",
+                            "position": 1,
+                            "selections": [
+                                [
+                                    {
+                                        "bet_trend": 57,
+                                        "id": 3564761158,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "4425",
+                                            "4430"
+                                        ],
+                                        "name": "Japon",
+                                        "odds": 5.5,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 2,
+                                        "id": 3564761159,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "4425",
+                                            "4430"
+                                        ],
+                                        "name": "Nul",
+                                        "odds": 30,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 41,
+                                        "id": 3564761160,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "4425",
+                                            "4430"
+                                        ],
+                                        "name": "Argentine",
+                                        "odds": 1.18,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ]
+                            ],
+                            "trait": {
+                                "isMatchResultOrWinner": true
+                            },
+                            "is_main_market": false
+                        }
+                    ],
+                    "name": "Résultat",
+                    "type": 0,
+                    "layout": 0,
+                    "position": 1
+                }
+            ],
+            "name": "Japon - Argentine",
+            "open_market_count": 20,
+            "is_betbuilder_available": false,
+            "relative_desktop_url": "japon-argentine-m3002016529",
+            "is_super_live": false
+        },
+        {
+            "id": 3002017360,
+            "betradar_info": {
+                "id": "36677743",
+                "match_tracker_eligibility": true,
+                "event_type": "Match",
+                "basketball_box_score_eligibility": false
+            },
+            "competition": {
+                "id": 34,
+                "sport": {
+                    "prelive_position": 30,
+                    "inplay_position": 30,
+                    "id": 5,
+                    "name": "Rugby à XV",
+                    "position": 30
+                },
+                "relative_desktop_url": "rugby-a-xv-s5/coupe-du-monde-2023-c34",
+                "country": {
+                    "code": "ZY",
+                    "name": "",
+                    "top": {
+                        "is_top": false,
+                        "order": 0
+                    }
+                },
+                "name": "Coupe du Monde 2023",
+                "display_image": false,
+                "logo_ratio": 0,
+                "info": {
+                    "round_name": "Gr. B, J5",
+                    "match_type": 1
+                }
+            },
+            "contestants": [
+                {
+                    "name": "Tonga",
+                    "short_name": "Tonga",
+                    "id": 180,
+                    "display_image": true,
+                    "team_id": 4437
+                },
+                {
+                    "name": "Roumanie",
+                    "short_name": "Roumanie",
+                    "id": 176,
+                    "display_image": true,
+                    "team_id": 4434
+                }
+            ],
+            "date": "2023-10-08T15:45:00Z",
+            "has_live_streaming": true,
+            "is_live": false,
+            "grouped_markets": [
+                {
+                    "id": 3164411949,
+                    "markets": [
+                        {
+                            "id": 3164411949,
+                            "categories": [
+                                "Match"
+                            ],
+                            "has_boosted_odds": false,
+                            "is_cashoutable": true,
+                            "is_eligible_boost": true,
+                            "is_betbuilder_eligible": false,
+                            "market_description_id": 142,
+                            "market_type_code": "Rgb_Mr3",
+                            "market_type_layout": 0,
+                            "name": "Résultat",
+                            "position": 1,
+                            "selections": [
+                                [
+                                    {
+                                        "bet_trend": 96,
+                                        "id": 3566113506,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "4434",
+                                            "4437"
+                                        ],
+                                        "name": "Tonga",
+                                        "odds": 1.01,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 2,
+                                        "id": 3566113507,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "4434",
+                                            "4437"
+                                        ],
+                                        "name": "Nul",
+                                        "odds": 70,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 2,
+                                        "id": 3566113508,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "4434",
+                                            "4437"
+                                        ],
+                                        "name": "Roumanie",
+                                        "odds": 8.5,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ]
+                            ],
+                            "trait": {
+                                "isMatchResultOrWinner": true
+                            },
+                            "is_main_market": false
+                        }
+                    ],
+                    "name": "Résultat",
+                    "type": 0,
+                    "layout": 0,
+                    "position": 1
+                }
+            ],
+            "name": "Tonga - Roumanie",
+            "open_market_count": 9,
+            "is_betbuilder_available": false,
+            "relative_desktop_url": "tonga-roumanie-m3002017360",
+            "is_super_live": false
+        },
+        {
+            "id": 3002017361,
+            "betradar_info": {
+                "id": "36677819",
+                "match_tracker_eligibility": true,
+                "event_type": "Match",
+                "basketball_box_score_eligibility": false
+            },
+            "competition": {
+                "id": 34,
+                "sport": {
+                    "prelive_position": 30,
+                    "inplay_position": 30,
+                    "id": 5,
+                    "name": "Rugby à XV",
+                    "position": 30
+                },
+                "relative_desktop_url": "rugby-a-xv-s5/coupe-du-monde-2023-c34",
+                "country": {
+                    "code": "ZY",
+                    "name": "",
+                    "top": {
+                        "is_top": false,
+                        "order": 0
+                    }
+                },
+                "name": "Coupe du Monde 2023",
+                "display_image": false,
+                "logo_ratio": 0,
+                "info": {
+                    "round_name": "Gr. C, J5",
+                    "match_type": 1
+                }
+            },
+            "contestants": [
+                {
+                    "name": "Fidji",
+                    "short_name": "Fidji",
+                    "id": 179,
+                    "display_image": true,
+                    "team_id": 4428
+                },
+                {
+                    "name": "Portugal",
+                    "short_name": "Portugal",
+                    "id": 122,
+                    "display_image": true,
+                    "team_id": 54389
+                }
+            ],
+            "date": "2023-10-08T19:00:00Z",
+            "has_live_streaming": true,
+            "is_live": false,
+            "grouped_markets": [
+                {
+                    "id": 3164367373,
+                    "markets": [
+                        {
+                            "id": 3164367373,
+                            "categories": [
+                                "Match"
+                            ],
+                            "has_boosted_odds": false,
+                            "is_cashoutable": true,
+                            "is_eligible_boost": true,
+                            "is_betbuilder_eligible": false,
+                            "market_description_id": 142,
+                            "market_type_code": "Rgb_Mr3",
+                            "market_type_layout": 0,
+                            "name": "Résultat",
+                            "position": 1,
+                            "selections": [
+                                [
+                                    {
+                                        "bet_trend": 90,
+                                        "id": 3565964805,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "4428",
+                                            "54389"
+                                        ],
+                                        "name": "Fidji",
+                                        "odds": 1.01,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 3,
+                                        "id": 3565964806,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "4428",
+                                            "54389"
+                                        ],
+                                        "name": "Nul",
+                                        "odds": 50,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 7,
+                                        "id": 3565964807,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "keys": [
+                                            "4428",
+                                            "54389"
+                                        ],
+                                        "name": "Portugal",
+                                        "odds": 15,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ]
+                            ],
+                            "trait": {
+                                "isMatchResultOrWinner": true
+                            },
+                            "is_main_market": false
+                        }
+                    ],
+                    "name": "Résultat",
+                    "type": 0,
+                    "layout": 0,
+                    "position": 1
+                }
+            ],
+            "name": "Fidji - Portugal",
+            "open_market_count": 15,
+            "is_betbuilder_available": false,
+            "relative_desktop_url": "fidji-portugal-m3002017361",
+            "is_super_live": false
+        },
+        {
+            "id": 3002042576,
+            "competition": {
+                "id": 34,
+                "sport": {
+                    "prelive_position": 30,
+                    "inplay_position": 30,
+                    "id": 5,
+                    "name": "Rugby à XV",
+                    "position": 30
+                },
+                "relative_desktop_url": "rugby-a-xv-s5/coupe-du-monde-2023-c34",
+                "country": {
+                    "code": "ZY",
+                    "name": "",
+                    "top": {
+                        "is_top": false,
+                        "order": 0
+                    }
+                },
+                "name": "Coupe du Monde 2023",
+                "display_image": false,
+                "logo_ratio": 0
+            },
+            "contestants": [
+                {
+                    "name": "Pays de Galles",
+                    "short_name": "Pays de Galles",
+                    "id": 102,
+                    "display_image": true,
+                    "team_id": 1841
+                },
+                {
+                    "name": "Argentine",
+                    "short_name": "Argentine",
+                    "id": 125,
+                    "display_image": true,
+                    "team_id": 4425
+                }
+            ],
+            "date": "2023-10-14T15:00:00Z",
+            "has_live_streaming": false,
+            "is_live": false,
+            "grouped_markets": [
+                {
+                    "id": 3162921222,
+                    "markets": [
+                        {
+                            "id": 3162921222,
+                            "categories": [
+                                "Match"
+                            ],
+                            "has_boosted_odds": false,
+                            "is_cashoutable": true,
+                            "is_betbuilder_eligible": false,
+                            "market_description_id": 142,
+                            "market_type_code": "Rgb_Mr3",
+                            "market_type_layout": 0,
+                            "name": "Résultat",
+                            "position": 1,
+                            "selections": [
+                                [
+                                    {
+                                        "bet_trend": 88,
+                                        "id": 3560812373,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "is_single_only": true,
+                                        "keys": [
+                                            "1841",
+                                            "4425"
+                                        ],
+                                        "name": "Pays de Galles",
+                                        "odds": 1.55,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 3,
+                                        "id": 3560812374,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "is_single_only": true,
+                                        "keys": [
+                                            "1841",
+                                            "4425"
+                                        ],
+                                        "name": "Nul",
+                                        "odds": 25,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 9,
+                                        "id": 3560812375,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "is_single_only": true,
+                                        "keys": [
+                                            "1841",
+                                            "4425"
+                                        ],
+                                        "name": "Argentine",
+                                        "odds": 2.4,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ]
+                            ],
+                            "trait": {
+                                "isMatchResultOrWinner": true
+                            },
+                            "is_main_market": false
+                        }
+                    ],
+                    "name": "Résultat",
+                    "type": 0,
+                    "layout": 0,
+                    "position": 1
+                }
+            ],
+            "name": "Pays de Galles - Argentine",
+            "open_market_count": 1,
+            "is_betbuilder_available": false,
+            "relative_desktop_url": "pays-de-galles-argentine-m3002042576",
+            "is_super_live": false
+        },
+        {
+            "id": 3002042578,
+            "competition": {
+                "id": 34,
+                "sport": {
+                    "prelive_position": 30,
+                    "inplay_position": 30,
+                    "id": 5,
+                    "name": "Rugby à XV",
+                    "position": 30
+                },
+                "relative_desktop_url": "rugby-a-xv-s5/coupe-du-monde-2023-c34",
+                "country": {
+                    "code": "ZY",
+                    "name": "",
+                    "top": {
+                        "is_top": false,
+                        "order": 0
+                    }
+                },
+                "name": "Coupe du Monde 2023",
+                "display_image": false,
+                "logo_ratio": 0
+            },
+            "contestants": [
+                {
+                    "name": "Irlande",
+                    "short_name": "Irlande",
+                    "id": 177,
+                    "display_image": true,
+                    "team_id": 1828
+                },
+                {
+                    "name": "Nouvelle-Zélande",
+                    "short_name": "Nouvelle-Zélande",
+                    "id": 146,
+                    "display_image": true,
+                    "team_id": 4433
+                }
+            ],
+            "date": "2023-10-14T19:00:00Z",
+            "has_live_streaming": false,
+            "is_live": false,
+            "grouped_markets": [
+                {
+                    "id": 3162921470,
+                    "markets": [
+                        {
+                            "id": 3162921470,
+                            "categories": [
+                                "Match"
+                            ],
+                            "has_boosted_odds": false,
+                            "is_cashoutable": true,
+                            "is_betbuilder_eligible": false,
+                            "market_description_id": 142,
+                            "market_type_code": "Rgb_Mr3",
+                            "market_type_layout": 0,
+                            "name": "Résultat",
+                            "position": 1,
+                            "selections": [
+                                [
+                                    {
+                                        "bet_trend": 59,
+                                        "id": 3560813047,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "is_single_only": true,
+                                        "keys": [
+                                            "1828",
+                                            "4433"
+                                        ],
+                                        "name": "Irlande",
+                                        "odds": 1.9,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 3,
+                                        "id": 3560813048,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "is_single_only": true,
+                                        "keys": [
+                                            "1828",
+                                            "4433"
+                                        ],
+                                        "name": "Nul",
+                                        "odds": 20,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 38,
+                                        "id": 3560813049,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "is_single_only": true,
+                                        "keys": [
+                                            "1828",
+                                            "4433"
+                                        ],
+                                        "name": "Nouvelle-Zélande",
+                                        "odds": 1.9,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ]
+                            ],
+                            "trait": {
+                                "isMatchResultOrWinner": true
+                            },
+                            "is_main_market": false
+                        }
+                    ],
+                    "name": "Résultat",
+                    "type": 0,
+                    "layout": 0,
+                    "position": 1
+                }
+            ],
+            "name": "Irlande - Nouvelle-Zélande",
+            "open_market_count": 1,
+            "is_betbuilder_available": false,
+            "relative_desktop_url": "irlande-nouvelle-zelande-m3002042578",
+            "is_super_live": false
+        },
+        {
+            "id": 3002042579,
+            "competition": {
+                "id": 34,
+                "sport": {
+                    "prelive_position": 30,
+                    "inplay_position": 30,
+                    "id": 5,
+                    "name": "Rugby à XV",
+                    "position": 30
+                },
+                "relative_desktop_url": "rugby-a-xv-s5/coupe-du-monde-2023-c34",
+                "country": {
+                    "code": "ZY",
+                    "name": "",
+                    "top": {
+                        "is_top": false,
+                        "order": 0
+                    }
+                },
+                "name": "Coupe du Monde 2023",
+                "display_image": false,
+                "logo_ratio": 0
+            },
+            "contestants": [
+                {
+                    "name": "Angleterre",
+                    "short_name": "Angleterre",
+                    "id": 112,
+                    "display_image": true,
+                    "team_id": 1824
+                },
+                {
+                    "name": "Fidji",
+                    "short_name": "Fidji",
+                    "id": 179,
+                    "display_image": true,
+                    "team_id": 4428
+                }
+            ],
+            "date": "2023-10-15T15:00:00Z",
+            "has_live_streaming": false,
+            "is_live": false,
+            "grouped_markets": [
+                {
+                    "id": 3162921495,
+                    "markets": [
+                        {
+                            "id": 3162921495,
+                            "categories": [
+                                "Match"
+                            ],
+                            "has_boosted_odds": false,
+                            "is_cashoutable": true,
+                            "is_betbuilder_eligible": false,
+                            "market_description_id": 142,
+                            "market_type_code": "Rgb_Mr3",
+                            "market_type_layout": 0,
+                            "name": "Résultat",
+                            "position": 1,
+                            "selections": [
+                                [
+                                    {
+                                        "bet_trend": 33,
+                                        "id": 3560813118,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "is_single_only": true,
+                                        "keys": [
+                                            "1824",
+                                            "4428"
+                                        ],
+                                        "name": "Angleterre",
+                                        "odds": 1.35,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 2,
+                                        "id": 3560813119,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "is_single_only": true,
+                                        "keys": [
+                                            "1824",
+                                            "4428"
+                                        ],
+                                        "name": "Nul",
+                                        "odds": 25,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 65,
+                                        "id": 3560813120,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "is_single_only": true,
+                                        "keys": [
+                                            "1824",
+                                            "4428"
+                                        ],
+                                        "name": "Fidji",
+                                        "odds": 3.25,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ]
+                            ],
+                            "trait": {
+                                "isMatchResultOrWinner": true
+                            },
+                            "is_main_market": false
+                        }
+                    ],
+                    "name": "Résultat",
+                    "type": 0,
+                    "layout": 0,
+                    "position": 1
+                }
+            ],
+            "name": "Angleterre - Fidji",
+            "open_market_count": 1,
+            "is_betbuilder_available": false,
+            "relative_desktop_url": "angleterre-fidji-m3002042579",
+            "is_super_live": false
+        },
+        {
+            "id": 3002042580,
+            "competition": {
+                "id": 34,
+                "sport": {
+                    "prelive_position": 30,
+                    "inplay_position": 30,
+                    "id": 5,
+                    "name": "Rugby à XV",
+                    "position": 30
+                },
+                "relative_desktop_url": "rugby-a-xv-s5/coupe-du-monde-2023-c34",
+                "country": {
+                    "code": "ZY",
+                    "name": "",
+                    "top": {
+                        "is_top": false,
+                        "order": 0
+                    }
+                },
+                "name": "Coupe du Monde 2023",
+                "display_image": false,
+                "logo_ratio": 0
+            },
+            "contestants": [
+                {
+                    "name": "France",
+                    "short_name": "France",
+                    "id": 121,
+                    "display_image": true,
+                    "team_id": 1826
+                },
+                {
+                    "name": "Afrique du Sud",
+                    "short_name": "Afrique du Sud",
+                    "id": 178,
+                    "display_image": true,
+                    "team_id": 4436
+                }
+            ],
+            "date": "2023-10-15T19:00:00Z",
+            "has_live_streaming": false,
+            "is_live": false,
+            "grouped_markets": [
+                {
+                    "id": 3162921535,
+                    "markets": [
+                        {
+                            "id": 3162921535,
+                            "categories": [
+                                "Match"
+                            ],
+                            "has_boosted_odds": false,
+                            "is_cashoutable": true,
+                            "is_betbuilder_eligible": false,
+                            "market_description_id": 142,
+                            "market_type_code": "Rgb_Mr3",
+                            "market_type_layout": 0,
+                            "name": "Résultat",
+                            "position": 1,
+                            "selections": [
+                                [
+                                    {
+                                        "bet_trend": 92,
+                                        "id": 3560813235,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "is_single_only": true,
+                                        "keys": [
+                                            "1826",
+                                            "4436"
+                                        ],
+                                        "name": "France",
+                                        "odds": 1.8,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 3,
+                                        "id": 3560813236,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "is_single_only": true,
+                                        "keys": [
+                                            "1826",
+                                            "4436"
+                                        ],
+                                        "name": "Nul",
+                                        "odds": 20,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ],
+                                [
+                                    {
+                                        "bet_trend": 5,
+                                        "id": 3560813237,
+                                        "is_boosted_odds": false,
+                                        "is_cashoutable": true,
+                                        "is_handicap_display": false,
+                                        "is_live": false,
+                                        "is_eligible_boost": true,
+                                        "is_betbuilder_eligible": false,
+                                        "is_betbuilder_available": false,
+                                        "is_outright": false,
+                                        "is_single_only": true,
+                                        "keys": [
+                                            "1826",
+                                            "4436"
+                                        ],
+                                        "name": "Afrique du Sud",
+                                        "odds": 2.05,
+                                        "position": 0,
+                                        "status": 0
+                                    }
+                                ]
+                            ],
+                            "trait": {
+                                "isMatchResultOrWinner": true
+                            },
+                            "is_main_market": false
+                        }
+                    ],
+                    "name": "Résultat",
+                    "type": 0,
+                    "layout": 0,
+                    "position": 1
+                }
+            ],
+            "name": "France - Afrique du Sud",
+            "open_market_count": 1,
+            "is_betbuilder_available": false,
+            "relative_desktop_url": "france-afrique-du-sud-m3002042580",
+            "is_super_live": false
+        },
+        {
+            "id": 3000709922,
+            "betradar_info": {
+                "id": "85837",
+                "match_tracker_eligibility": true,
+                "event_type": "Match",
+                "basketball_box_score_eligibility": false
+            },
+            "competition": {
+                "id": 34,
+                "sport": {
+                    "prelive_position": 30,
+                    "inplay_position": 30,
+                    "id": 5,
+                    "name": "Rugby à XV",
+                    "position": 30
+                },
+                "relative_desktop_url": "rugby-a-xv-s5/coupe-du-monde-2023-c34",
+                "country": {
+                    "code": "ZY",
+                    "name": "",
+                    "top": {
+                        "is_top": false,
+                        "order": 0
+                    }
+                },
+                "name": "Coupe du Monde 2023",
+                "display_image": false,
+                "logo_ratio": 0
+            },
+            "contestants": [],
+            "date": "2023-10-28T19:00:00Z",
+            "has_live_streaming": false,
+            "is_live": false,
+            "grouped_markets": [],
+            "name": "Coupe du Monde 2023",
+            "open_market_count": 21,
+            "is_betbuilder_available": false,
+            "relative_desktop_url": "coupe-du-monde-2023-m3000709922",
+            "is_super_live": false
+        }
+    ]
+}

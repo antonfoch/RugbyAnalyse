@@ -1,0 +1,122 @@
+[
+    {
+        "Team 1": "Nouvelle-Zélande",
+        "Team 2": "Uruguay",
+        "Date": "2023-10-05T19:00:00Z",
+        "Cotes": {
+            "Nouvelle-Zélande": 1,
+            "Nul": 50,
+            "Uruguay": 25
+        }
+    },
+    {
+        "Team 1": "France",
+        "Team 2": "Italie",
+        "Date": "2023-10-06T19:00:00Z",
+        "Cotes": {
+            "France": 1.01,
+            "Nul": 50,
+            "Italie": 25
+        }
+    },
+    {
+        "Team 1": "Pays de Galles",
+        "Team 2": "Géorgie",
+        "Date": "2023-10-07T13:00:00Z",
+        "Cotes": {
+            "Pays de Galles": 1.05,
+            "Nul": 30,
+            "Géorgie": 13
+        }
+    },
+    {
+        "Team 1": "Angleterre",
+        "Team 2": "Samoa",
+        "Date": "2023-10-07T15:45:00Z",
+        "Cotes": {
+            "Angleterre": 1.06,
+            "Nul": 40,
+            "Samoa": 10
+        }
+    },
+    {
+        "Team 1": "Irlande",
+        "Team 2": "Ecosse",
+        "Date": "2023-10-07T19:00:00Z",
+        "Cotes": {
+            "Irlande": 1.15,
+            "Nul": 30,
+            "Ecosse": 6.25
+        }
+    },
+    {
+        "Team 1": "Japon",
+        "Team 2": "Argentine",
+        "Date": "2023-10-08T11:00:00Z",
+        "Cotes": {
+            "Japon": 5.5,
+            "Nul": 30,
+            "Argentine": 1.18
+        }
+    },
+    {
+        "Team 1": "Tonga",
+        "Team 2": "Roumanie",
+        "Date": "2023-10-08T15:45:00Z",
+        "Cotes": {
+            "Tonga": 1.01,
+            "Nul": 70,
+            "Roumanie": 8.5
+        }
+    },
+    {
+        "Team 1": "Fidji",
+        "Team 2": "Portugal",
+        "Date": "2023-10-08T19:00:00Z",
+        "Cotes": {
+            "Fidji": 1.01,
+            "Nul": 50,
+            "Portugal": 15
+        }
+    },
+    {
+        "Team 1": "Pays de Galles",
+        "Team 2": "Argentine",
+        "Date": "2023-10-14T15:00:00Z",
+        "Cotes": {
+            "Pays de Galles": 1.55,
+            "Nul": 25,
+            "Argentine": 2.4
+        }
+    },
+    {
+        "Team 1": "Irlande",
+        "Team 2": "Nouvelle-Zélande",
+        "Date": "2023-10-14T19:00:00Z",
+        "Cotes": {
+            "Irlande": 1.9,
+            "Nul": 20,
+            "Nouvelle-Zélande": 1.9
+        }
+    },
+    {
+        "Team 1": "Angleterre",
+        "Team 2": "Fidji",
+        "Date": "2023-10-15T15:00:00Z",
+        "Cotes": {
+            "Angleterre": 1.35,
+            "Nul": 25,
+            "Fidji": 3.25
+        }
+    },
+    {
+        "Team 1": "France",
+        "Team 2": "Afrique du Sud",
+        "Date": "2023-10-15T19:00:00Z",
+        "Cotes": {
+            "France": 1.8,
+            "Nul": 20,
+            "Afrique du Sud": 2.05
+        }
+    }
+]
