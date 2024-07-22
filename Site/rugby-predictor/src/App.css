@@ -1,26 +1,106 @@
-app {}
+body {
+  background-color: #1f1f1f;
+  padding: 20px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+
+
+.RugbyTitle {
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+}
+
+.resultcontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+label {
+  font-size: 40px;
+}
+
+.squarecontainer {
+  background-color: #282828;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.square {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .OptionContainer {
   display: flex;
-  justify-content: center;
-  justify-content: space-around;
+  align-items: center;
 }
 
-.Container {
-  background-color: rgb(7, 63, 115);
+.Home,
+.Away {
+  flex: 1;
 }
+
 
 .Home {
   display: flex;
   flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.Home label {
+  margin-bottom: 5px;
+
 }
 
 .Away {
   display: flex;
   flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
 
-.RugbyTitle {
-  display: flex;
-  justify-content: center;
+.Away label {
+  margin-bottom: 5px;
+}
+
+label {
+  color: #ffffff;
+}
+
+select {
+  background-color: #333333;
+  color: #ffffff;
+  border: none;
+  padding: 10px;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.middle {
+  text-align: center;
+  flex: 1;
+}
+
+.predictbutton {
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.result {
+  font-size: 40px;
+  margin-top: 10px;
+  color: #ffffff;
 }

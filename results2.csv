@@ -1,0 +1,237 @@
+date;home_team;away_team;home_score;away_score;city;season;avg_temp_c;min_temp_c;max_temp_c;precipitation_mm;avg_wind_dir_deg;avg_wind_speed_kmh;Gagnant;resultat
+01/02/2014;France;England;26;24;Saint-Denis;Winter;6,9;5,8;9;2,6;216;19,1;France;1
+02/02/2014;Ireland;Scotland;28;6;Dublin;Winter;6,4;3,3;9,1;3,4;210;32;Ireland;1
+08/02/2014;Ireland;Wales;26;3;Dublin;Winter;6,9;1,5;9,6;4;200;34,8;Ireland;1
+09/02/2014;France;Italy;30;10;Saint-Denis;Winter;6;3,8;9,2;0;216;25,5;France;1
+22/02/2014;Italy;Scotland;20;21;Rome;Winter;11,4;;;1;;;Scotland;0
+08/03/2014;Ireland;Italy;46;7;Dublin;Spring;9,6;2,8;12,2;0;182;36,3;Ireland;1
+15/03/2014;Italy;England;11;52;Rome;Spring;12,3;;18;0;;;England;0
+15/03/2014;France;Ireland;20;22;Saint-Denis;Spring;10,6;6,7;15,5;0;309;15,7;Ireland;0
+07/06/2014;Argentina;Ireland;17;29;Resistencia;Winter;17,8;14,1;;0;;;Ireland;0
+07/06/2014;New Zealand;England;20;15;Auckland;Winter;13;;18,3;0;;;New Zealand;1
+07/06/2014;Australia;France;50;23;Brisbane;Winter;;13,3;24,4;0;;;Australia;1
+14/06/2014;Australia;France;6;0;Melbourne;Winter;;8,7;15,4;0,2;;;Australia;1
+21/06/2014;Australia;France;39;13;Sydney;Winter;14,6;10,2;20,3;0;285;13,1;Australia;1
+21/06/2014;South Africa;Wales;31;30;Nelspruit;Winter;12,6;4,1;25,6;;;;South Africa;1
+21/06/2014;New Zealand;England;36;13;Hamilton;Winter;14,1;9;16;;327;12,2;New Zealand;1
+21/06/2014;Argentina;Scotland;19;21;C��r;Winter;14,3;5,4;20,5;;4;24,1;Scotland;0
+16/08/2014;Australia;New Zealand;12;12;Sydney;Winter;14,4;7,9;16,8;0;;11,9;New Zealand;-1
+16/08/2014;South Africa;Argentina;13;6;Pretoria;Winter;13,4;11,6;24,5;;;;South Africa;1
+23/08/2014;New Zealand;Australia;51;20;Auckland;Winter;10,3;;15;0;;;New Zealand;1
+06/09/2014;Australia;South Africa;24;23;Perth;Spring;;16,3;22,2;1,2;;;Australia;1
+13/09/2014;New Zealand;South Africa;14;10;Wellington;Spring;11,8;;17,6;2;;;New Zealand;1
+27/09/2014;Argentina;New Zealand;13;34;La Plata;Spring;11,5;3,1;;0;;;New Zealand;0
+27/09/2014;South Africa;Australia;28;10;Cape Town;Spring;12,4;7,4;17;0,5;;18,7;South Africa;1
+18/10/2014;Australia;New Zealand;28;29;Brisbane;Spring;;16,1;26,5;0;;;New Zealand;0
+08/11/2014;Ireland;South Africa;29;15;Dublin;Autumn;6,9;5,1;9,3;10,2;245;18,6;Ireland;1
+15/11/2014;Italy;Argentina;18;20;Genoa;Autumn;13,4;11,5;15,6;87,9;228;32,2;Argentina;0
+15/11/2014;France;Australia;29;26;Saint-Denis;Autumn;10,3;9,3;13;0,2;;7,6;France;1
+22/11/2014;France;Argentina;13;18;Saint-Denis;Autumn;9,8;5,3;15,4;0;;3,7;Argentina;0
+22/11/2014;Ireland;Australia;26;23;Dublin;Autumn;9,1;8,8;10,8;0,3;236;16,7;Ireland;1
+07/02/2015;Italy;Ireland;3;26;Rome;Winter;6,9;0;;0,5;;;Ireland;0
+07/02/2015;France;Scotland;15;8;Saint-Denis;Winter;1,4;-2,4;5,1;0;31;20,9;France;1
+14/02/2015;Ireland;France;18;11;Dublin;Winter;6,1;3,5;10,1;0;;14,3;Ireland;1
+28/02/2015;France;Wales;13;20;Paris;Winter;4,8;-0,7;10,1;3,6;;15,1;Wales;0
+01/03/2015;Ireland;England;19;9;Dublin;Spring;3,5;3,3;5,8;8,2;241;32,5;Ireland;1
+15/03/2015;Italy;France;0;29;Rome;Spring;9,1;;11,8;1;;;France;0
+21/03/2015;Italy;Wales;20;61;Rome;Spring;10,2;;14;0;;;Wales;0
+17/07/2015;New Zealand;Argentina;39;18;Christchurch;Winter;5,7;;10,2;0,5;;;New Zealand;1
+18/07/2015;Australia;South Africa;24;20;Brisbane;Winter;;6,9;19,4;0;;;Australia;1
+08/08/2015;Australia;New Zealand;27;19;Sydney;Winter;10,9;7,1;15;0;239;17,7;Australia;1
+15/08/2015;Ireland;Scotland;28;22;Dublin;Summer;11,6;7;17,4;0;245;15,5;Ireland;1
+15/08/2015;Argentina;South Africa;12;26;Buenos Aires;Winter;12,4;9,2;17;0,5;279;11,1;South Africa;0
+15/08/2015;New Zealand;Australia;41;13;Auckland;Winter;11,9;8,8;14,9;10,4;;;New Zealand;1
+22/08/2015;Italy;Scotland;12;16;Turin;Summer;19,3;15,8;22,4;0;;4,3;Scotland;0
+22/08/2015;France;England;25;20;Saint-Denis;Summer;23,8;15,1;30,8;0;;9,3;France;1
+29/08/2015;Ireland;Wales;10;16;Dublin;Summer;14,2;11;19;3,4;218;16,8;Wales;0
+05/09/2015;France;Scotland;19;16;Saint-Denis;Autumn;14,7;11,1;19,6;2,4;303;10,7;France;1
+06/02/2016;France;Italy;23;21;Saint-Denis;Winter;10,4;6,5;14,3;0,8;194;18,3;France;1
+07/02/2016;Ireland;Wales;16;16;Dublin;Winter;4,9;2,5;8,9;7,1;221;36,4;Wales;-1
+13/02/2016;France;Ireland;10;9;Saint-Denis;Winter;6,1;3,2;9;13,9;198;14,5;France;1
+14/02/2016;Italy;England;9;40;Rome;Winter;13,8;11;16;;164;17,3;England;0
+27/02/2016;Italy;Scotland;20;36;Rome;Winter;13,1;11;15;;138;26,7;Scotland;0
+12/03/2016;Ireland;Italy;58;15;Dublin;Spring;11,2;9,5;14,8;0;203;16,2;Ireland;1
+19/03/2016;France;England;21;31;Saint-Denis;Spring;5,5;3,4;6,5;0;43;17,4;England;0
+19/03/2016;Ireland;Scotland;35;25;Dublin;Spring;5,7;3,3;7,6;0;45;14,3;Ireland;1
+11/06/2016;Australia;England;28;39;Brisbane;Winter;;12,8;23,7;0;;;England;0
+11/06/2016;New Zealand;Wales;39;21;Auckland;Winter;14,3;11,3;17,7;1,8;;;New Zealand;1
+11/06/2016;South Africa;Ireland;20;26;Cape Town;Winter;11,3;5;18;;;14,9;Ireland;0
+18/06/2016;Australia;England;7;23;Melbourne;Winter;;9,6;12,4;8,8;;;England;0
+18/06/2016;New Zealand;Wales;36;22;Wellington;Winter;13,2;11,5;14,4;0;;;New Zealand;1
+25/06/2016;Australia;England;40;44;Sydney;Winter;9,6;6,8;13,6;0;249;27,1;England;0
+20/08/2016;Australia;New Zealand;8;42;Sydney;Winter;12,6;10;18,4;0,4;;;New Zealand;0
+27/08/2016;Argentina;South Africa;26;24;Salta;Winter;17,6;10,2;31;;42;9,4;Argentina;1
+27/08/2016;New Zealand;Australia;29;9;Wellington;Winter;10,7;;13,1;6,6;;;New Zealand;1
+10/09/2016;New Zealand;Argentina;57;22;Hamilton;Spring;9,8;7;14;;195;16,5;New Zealand;1
+10/09/2016;Australia;South Africa;23;17;Brisbane;Spring;;16,2;23,3;7,2;;;Australia;1
+17/09/2016;New Zealand;South Africa;41;13;Christchurch;Spring;10,6;;18,9;0;;;New Zealand;1
+17/09/2016;Australia;Argentina;36;20;Perth;Spring;;7,3;17,9;0;;;Australia;1
+01/10/2016;Argentina;New Zealand;17;36;Buenos Aires;Spring;15,2;12;18;0;85;21,8;New Zealand;0
+01/10/2016;South Africa;Australia;18;10;Pretoria;Spring;21,4;13,5;29,5;;;;South Africa;1
+22/10/2016;New Zealand;Australia;37;10;Auckland;Spring;13,7;;17,2;0,5;;;New Zealand;1
+12/11/2016;Italy;New Zealand;10;68;Rome;Autumn;8,5;6;12;;37;11,1;New Zealand;0
+19/11/2016;Italy;South Africa;20;18;Florence;Autumn;2,5;1;3,6;23,9;228;19,4;Italy;1
+19/11/2016;France;Australia;23;25;Saint-Denis;Autumn;6,7;3,5;11,7;0,8;206;15,1;Australia;0
+19/11/2016;Ireland;New Zealand;9;21;Dublin;Autumn;1,4;0,9;5,4;0;266;18;New Zealand;0
+26/11/2016;Ireland;Australia;27;24;Dublin;Autumn;5,2;3,5;8,9;0;355;9,9;Ireland;1
+26/11/2016;France;New Zealand;19;24;Saint-Denis;Autumn;8,8;7,5;10,4;0;54;7,9;New Zealand;0
+05/02/2017;Italy;Wales;7;33;Rome;Winter;13,4;11;15,5;;153;18,6;Wales;0
+11/02/2017;Italy;Ireland;10;63;Rome;Winter;10,4;5,1;16,8;;;7,7;Ireland;0
+12/02/2017;France;Scotland;22;16;Saint-Denis;Winter;3,5;-1,2;8,4;0,4;77;12,3;France;1
+25/02/2017;Ireland;France;19;9;Dublin;Winter;9,3;4,2;14,1;0,1;233;29,1;Ireland;1
+11/03/2017;Italy;France;18;40;Rome;Spring;10,8;6;16,7;;352;22;France;0
+18/03/2017;France;Wales;20;18;Paris;Spring;10,6;6;14,7;0;252;22,2;France;1
+18/03/2017;Ireland;England;13;9;Dublin;Spring;11,5;6,8;12,9;1,2;256;36;Ireland;1
+10/06/2017;Argentina;England;34;38;San Juan;Winter;13,3;4;;;;;England;0
+10/06/2017;South Africa;France;37;14;Pretoria;Winter;12;6,8;20;;;;South Africa;1
+17/06/2017;Australia;Scotland;19;24;Sydney;Winter;15,7;13,1;17,8;0;209;17,8;Scotland;0
+24/06/2017;Australia;Italy;40;27;Brisbane;Winter;;10,4;24,5;0;;;Australia;1
+19/08/2017;Australia;New Zealand;34;54;Sydney;Winter;11,1;8,2;14,8;0;228;34,6;New Zealand;0
+26/08/2017;Argentina;South Africa;23;41;Salta;Winter;17,2;10,7;31;;;8,2;South Africa;0
+09/09/2017;New Zealand;Argentina;39;22;New Plymouth;Spring;9,1;;12,9;11,7;;;New Zealand;1
+09/09/2017;Australia;South Africa;23;23;Perth;Spring;;13;21,8;0,2;;;South Africa;-1
+16/09/2017;Australia;Argentina;45;20;Canberra;Spring;4,3;1,2;14,5;0,5;;22,6;Australia;1
+30/09/2017;South Africa;Australia;27;27;Bloemfontein;Spring;20,1;;28,5;;;;Australia;-1
+30/09/2017;Argentina;New Zealand;10;36;Buenos Aires;Spring;17,6;14,4;20,2;;60;11,5;New Zealand;0
+07/10/2017;South Africa;New Zealand;24;25;Cape Town;Spring;14,5;9,2;21,5;;;11,5;New Zealand;0
+21/10/2017;Australia;New Zealand;23;18;Brisbane;Spring;;18,6;20,4;3,8;;;Australia;1
+11/11/2017;Ireland;South Africa;38;3;Dublin;Autumn;7,2;7,1;9;1,3;319;11,6;Ireland;1
+11/11/2017;France;New Zealand;18;38;Saint-Denis;Autumn;10,9;7,8;12,9;7,6;251;17,6;New Zealand;0
+18/11/2017;Italy;Argentina;15;31;Florence;Autumn;-2,4;-3,6;-1,4;0;17;40,6;Argentina;0
+18/11/2017;France;South Africa;17;18;Saint-Denis;Autumn;5,6;1,3;9,1;0,8;255;9;South Africa;0
+25/11/2017;Ireland;Argentina;28;19;Dublin;Autumn;1,8;0,1;4,4;0;265;28,1;Ireland;1
+03/02/2018;France;Ireland;13;15;Saint-Denis;Winter;3,3;0,9;4,6;5,4;217;9,1;Ireland;0
+04/02/2018;Italy;England;15;46;Rome;Winter;6,8;2;11,7;;;7,6;England;0
+10/02/2018;Ireland;Italy;56;19;Dublin;Winter;7,6;0,3;10,9;1;234;34,1;Ireland;1
+23/02/2018;France;Italy;34;17;Marseille;Winter;4,6;-1,8;10,3;0;313;13,8;France;1
+24/02/2018;Ireland;Wales;37;27;Dublin;Winter;2;1,7;5,4;0;137;21,2;Ireland;1
+10/03/2018;Ireland;Scotland;28;8;Dublin;Spring;7,6;1;13,4;0,1;131;21,2;Ireland;1
+10/03/2018;France;England;22;16;Saint-Denis;Spring;13,4;10,3;17,8;16,1;176;12,6;France;1
+17/03/2018;Italy;Scotland;27;29;Rome;Spring;11,1;9,9;13,4;;49;8,5;Scotland;0
+09/06/2018;New Zealand;France;52;11;Auckland;Winter;10;3,8;16,2;0,3;;;New Zealand;1
+09/06/2018;Australia;Ireland;18;9;Brisbane;Winter;;15,6;23,7;0,2;;;Australia;1
+09/06/2018;Argentina;Wales;10;23;San Juan;Winter;7,1;-1,4;;;;;Wales;0
+16/06/2018;Australia;Ireland;21;26;Melbourne;Winter;;5,8;12,5;0,8;;;Ireland;0
+16/06/2018;New Zealand;France;26;13;Wellington;Winter;13,2;;16;0;;;New Zealand;1
+16/06/2018;Argentina;Wales;12;30;Resistencia;Winter;6,6;-0,1;15;;;6,1;Wales;0
+16/06/2018;South Africa;England;23;12;Bloemfontein;Winter;5,8;;15,9;;;;South Africa;1
+23/06/2018;South Africa;England;10;25;Cape Town;Winter;14,3;13;16,9;0;351;27,7;England;0
+23/06/2018;Argentina;Scotland;15;44;Resistencia;Winter;21,3;14,2;27,6;;50;12,2;Scotland;0
+23/06/2018;Australia;Ireland;16;20;Sydney;Winter;12,7;7;20,3;0;299;13,1;Ireland;0
+18/08/2018;Australia;New Zealand;13;38;Sydney;Winter;14,4;5,8;23,6;0;298;22,7;New Zealand;0
+25/08/2018;New Zealand;Australia;40;12;Auckland;Winter;12,6;9,7;15,1;1,5;233;27,3;New Zealand;1
+08/09/2018;Australia;South Africa;23;18;Brisbane;Spring;;17,5;25;1,2;;;Australia;1
+15/09/2018;New Zealand;South Africa;34;36;Wellington;Spring;13;9,5;16,3;0;9;25,6;South Africa;0
+29/09/2018;Argentina;New Zealand;17;35;Buenos Aires;Spring;19,3;16,5;21,5;2;117;22,8;New Zealand;0
+06/10/2018;Argentina;Australia;34;45;Salta;Spring;18,6;8,5;25,2;;;7,4;Australia;0
+06/10/2018;South Africa;New Zealand;30;32;Pretoria;Spring;20,7;10,4;28,6;;;;New Zealand;0
+10/11/2018;Ireland;Argentina;28;17;Dublin;Autumn;6,8;5,6;9,9;4,2;174;11,7;Ireland;1
+10/11/2018;France;South Africa;26;29;Saint-Denis;Autumn;11,7;10,5;12,8;6;193;20,8;South Africa;0
+17/11/2018;France;Argentina;28;13;Lille;Autumn;5,1;0,9;9,2;0,3;55;14,6;France;1
+17/11/2018;Ireland;New Zealand;16;9;Dublin;Autumn;10,7;11,8;12,4;0;120;18,3;Ireland;1
+24/11/2018;Italy;New Zealand;3;66;Rome;Autumn;16,6;16;17,4;;156;18,7;New Zealand;0
+01/02/2019;France;Wales;19;24;Paris;Winter;5,1;1,6;7,2;18,7;169;8,1;Wales;0
+02/02/2019;Ireland;England;20;32;Dublin;Winter;0,4;-2,4;5,4;0;278;17;England;0
+09/02/2019;Italy;Wales;15;26;Rome;Winter;9,4;3,7;14;;140;6,5;Wales;0
+23/02/2019;France;Scotland;27;10;Saint-Denis;Winter;10,2;5,9;16,4;0;69;10,8;France;1
+24/02/2019;Italy;Ireland;16;26;Rome;Winter;7,3;1,9;13,6;;22;14,2;Ireland;0
+10/03/2019;Ireland;France;26;14;Dublin;Spring;3,4;2,7;7,9;1,5;252;25,2;Ireland;1
+16/03/2019;Italy;France;14;25;Rome;Spring;12,8;9;16,4;;150;8,4;France;0
+20/07/2019;Argentina;New Zealand;16;20;Buenos Aires;Winter;15,1;11,9;17,5;;22;7,5;New Zealand;0
+27/07/2019;Australia;Argentina;16;10;Brisbane;Winter;;12,1;25,9;0;;;Australia;1
+27/07/2019;New Zealand;South Africa;16;16;Wellington;Winter;13,3;8,4;14,8;0;12;21,1;South Africa;-1
+10/08/2019;Ireland;Italy;29;10;Dublin;Summer;16,6;16,8;20,2;10,2;235;20,6;Ireland;1
+10/08/2019;Australia;New Zealand;47;26;Perth;Winter;;7,3;18,9;0,2;;;Australia;1
+10/08/2019;Argentina;South Africa;13;46;Salta;Winter;7,4;-3,2;20,5;;341;7,1;South Africa;0
+17/08/2019;New Zealand;Australia;36;0;Auckland;Winter;12,1;7,8;16,6;1,5;309;15,3;New Zealand;1
+17/08/2019;South Africa;Argentina;24;18;Pretoria;Winter;20,1;11,6;27,8;;;;South Africa;1
+30/08/2019;France;Italy;47;19;Saint-Denis;Summer;20,8;12,8;28,2;0;61;8,3;France;1
+07/09/2019;Ireland;Wales;19;10;Dublin;Autumn;12,5;10,2;18,7;0;303;15;Ireland;1
+01/02/2020;Ireland;Scotland;19;12;Dublin;Winter;7,9;7,5;10,9;2,7;242;24,5;Ireland;1
+02/02/2020;France;England;24;17;Saint-Denis;Winter;13;11;15,7;11,7;230;19,9;France;1
+08/02/2020;Ireland;Wales;24;14;Dublin;Winter;7,1;4,1;11,8;33,1;210;31,7;Ireland;1
+09/02/2020;France;Italy;35;22;Saint-Denis;Winter;10,3;6,9;13,9;2,8;211;33,9;France;1
+22/02/2020;Italy;Scotland;0;17;Rome;Winter;10,4;4,1;16,4;0;0;6,4;Scotland;0
+11/10/2020;New Zealand;Australia;16;16;Wellington;Spring;14,4;12,4;17,9;17,8;0;34,1;Australia;-1
+18/10/2020;New Zealand;Australia;27;7;Auckland;Spring;15,8;6,7;18,5;1,5;124;7,8;New Zealand;1
+24/10/2020;Ireland;Italy;50;17;Dublin;Autumn;10,1;7,5;11,8;0;200;20,7;Ireland;1
+24/10/2020;France;Wales;38;21;Paris;Autumn;13,7;11;15,8;2,8;202;21,5;France;1
+31/10/2020;France;Ireland;35;27;Saint-Denis;Autumn;14,1;9;18;0,2;191;13,9;France;1
+31/10/2020;Italy;England;5;34;Rome;Autumn;14,2;8,6;20;0,3;33;5,5;England;0
+31/10/2020;Australia;New Zealand;5;43;Sydney;Spring;16,6;16,7;21,2;3,2;136;23,5;New Zealand;0
+07/11/2020;Australia;New Zealand;24;22;Brisbane;Spring;;17;27,1;0;;;Australia;1
+13/11/2020;Ireland;Wales;32;9;Dublin;Autumn;8,2;6,1;10,8;0,3;217;19,4;Ireland;1
+14/11/2020;New Zealand;Argentina;15;25;Sydney;Spring;21,2;17,3;25,7;1,6;137;16,5;Argentina;0
+14/11/2020;Italy;Scotland;17;28;Florence;Autumn;4;2,2;6,4;0;;11,5;Scotland;0
+28/11/2020;France;Italy;36;5;Saint-Denis;Autumn;6,3;2,3;11,3;0;31;8,7;France;1
+05/12/2020;Ireland;Scotland;31;16;Dublin;Winter;4,8;0,6;7,3;1;337;22,2;Ireland;1
+05/12/2020;Australia;Argentina;16;16;Sydney;Summer;23,3;19,5;26,2;0;50;20,1;Argentina;-1
+06/02/2021;Italy;France;10;50;Rome;Winter;15,3;7;21,4;0;138;13,9;France;0
+14/02/2021;Ireland;France;13;15;Dublin;Winter;8,2;1,1;13,1;2,5;170;28,8;France;0
+27/02/2021;Italy;Ireland;10;48;Rome;Winter;10,3;7,5;15;0;292;4,5;Ireland;0
+13/03/2021;Italy;Wales;7;48;Rome;Spring;13,6;10,3;17,5;0;187;14,8;Wales;0
+20/03/2021;France;Wales;32;30;Paris;Spring;5,1;1;9,1;0;17;13,8;France;1
+20/03/2021;Ireland;England;32;18;Dublin;Spring;8,4;3,2;13,5;0,1;288;13,7;Ireland;1
+26/03/2021;France;Scotland;23;27;Saint-Denis;Spring;8,9;3,7;15,6;0,3;213;15,1;Scotland;0
+07/07/2021;Australia;France;23;21;Brisbane;Winter;12,3;8;22;0;188;7,6;Australia;1
+13/07/2021;Australia;France;26;28;Melbourne;Winter;10,1;6,8;13,3;1;355;19,1;France;0
+17/07/2021;Australia;France;33;30;Brisbane;Winter;15,2;14,4;21,1;0,6;265;21,9;Australia;1
+07/08/2021;New Zealand;Australia;33;25;Auckland;Winter;12,6;12;15,6;8,9;239;35,8;New Zealand;1
+14/08/2021;New Zealand;Australia;57;22;Auckland;Winter;12,7;9;15,4;1,5;255;21,9;New Zealand;1
+05/09/2021;Australia;New Zealand;21;38;Perth;Spring;13,7;7,1;21,8;0;75;11,8;New Zealand;0
+18/09/2021;Australia;South Africa;30;17;Brisbane;Spring;18,5;13,5;25,2;0;359;12,7;Australia;1
+18/09/2021;New Zealand;Argentina;36;13;Brisbane;Spring;18,5;13,5;25,2;0;359;12,7;New Zealand;1
+05/11/2021;France;Argentina;29;20;Saint-Denis;Autumn;8,9;6,9;12,3;2,3;331;9,8;France;1
+06/11/2021;Italy;New Zealand;9;47;Rome;Autumn;14,2;9,6;19,5;2;57;13,8;New Zealand;0
+13/11/2021;Ireland;New Zealand;29;20;Dublin;Autumn;10,9;10,1;12,5;0;250;12;Ireland;1
+20/11/2021;France;New Zealand;40;25;Saint-Denis;Autumn;6,8;5,5;9,5;0;121;8,2;France;1
+21/11/2021;Ireland;Argentina;53;7;Dublin;Autumn;4,2;1,3;8,7;0;319;19,8;Ireland;1
+05/02/2022;Ireland;Wales;29;7;Dublin;Winter;6,7;2,5;9,7;8,4;239;25,2;Ireland;1
+07/02/2022;France;Italy;37;10;Saint-Denis;Winter;7,1;3,4;10,8;9,4;280;13,1;France;1
+12/02/2022;France;Ireland;30;24;Saint-Denis;Winter;3,5;-1,4;9,5;0;128;6,6;France;1
+13/02/2022;Italy;England;0;33;Rome;Winter;10,3;5,5;15,6;0;128;8,6;England;0
+28/02/2022;Ireland;Italy;57;6;Dublin;Winter;7,1;7,7;9,9;0,4;241;14,4;Ireland;1
+12/03/2022;Italy;Scotland;22;33;Rome;Spring;8,7;5;13;;154;8,9;Scotland;0
+19/03/2022;Ireland;Scotland;26;5;Dublin;Spring;9,9;6,4;14,4;0;119;24,6;Ireland;1
+20/03/2022;France;England;25;13;Saint-Denis;Spring;7,8;2,3;13,7;0;82;11,3;France;1
+02/07/2022;Argentina;Scotland;26;18;San Salvador de Jujuy;Winter;13,6;5,7;22,9;0;203;12,4;Argentina;1
+02/07/2022;New Zealand;Ireland;42;19;Auckland;Winter;10,3;8,5;14,8;0,5;224;11,7;New Zealand;1
+02/07/2022;South Africa;Wales;32;29;Pretoria;Winter;13,1;2,3;17,9;0;334;8,2;South Africa;1
+02/07/2022;Australia;England;30;28;Perth;Winter;12,2;7;19,3;0;66;12,1;Australia;1
+09/07/2022;South Africa;Wales;12;13;Bloemfontein;Winter;7,1;-4;19;0;335;6,9;Wales;0
+09/07/2022;Australia;England;17;25;Brisbane;Winter;11,2;8,3;19,6;0;258;9,6;England;0
+09/07/2022;Argentina;Scotland;6;29;Salta;Winter;15,4;3,6;29;0;304;9,6;Scotland;0
+16/07/2022;Australia;England;17;21;Sydney;Winter;12,8;4,9;16,5;0;323;15;England;0
+16/07/2022;New Zealand;Ireland;22;32;Wellington;Winter;7,4;4,7;10,6;8,9;187;14,2;Ireland;0
+16/07/2022;South Africa;Wales;30;14;Cape Town;Winter;16,8;6;27,7;0;28;9,5;South Africa;1
+06/08/2022;Argentina;Australia;26;41;Mendoza;Winter;9,6;5,9;16,8;0,7;183;7,7;Australia;0
+13/08/2022;Argentina;Australia;48;17;San Juan;Winter;13,7;2,2;24,6;0;73;5,9;Argentina;1
+27/08/2022;New Zealand;Argentina;18;25;Christchurch;Winter;8;1,7;11,4;0,3;231;10,2;Argentina;0
+27/08/2022;Australia;South Africa;25;17;Adelaide;Winter;8,8;7,6;13,4;0;39;13,4;Australia;1
+03/09/2022;Australia;South Africa;8;24;Sydney;Spring;14,3;10,5;16,6;5,2;170;38,8;South Africa;0
+03/09/2022;New Zealand;Argentina;53;3;Hamilton;Spring;14,5;7;18;12,8;344;16,2;New Zealand;1
+15/09/2022;Australia;New Zealand;37;39;Melbourne;Spring;12,5;11;15,9;5;14;19;New Zealand;0
+17/09/2022;Argentina;South Africa;20;36;Buenos Aires;Spring;18,5;14,9;22,2;0;53;15;South Africa;0
+24/09/2022;New Zealand;Australia;40;14;Auckland;Spring;15,3;10,1;17,8;0;217;15;New Zealand;1
+05/11/2022;Ireland;South Africa;19;16;Dublin;Autumn;11,1;5;13,8;0,1;201;16,4;Ireland;1
+05/11/2022;France;Australia;30;29;Saint-Denis;Autumn;8,1;4,7;11,8;0,2;216;10,5;France;1
+12/11/2022;France;South Africa;30;26;Marseille;Autumn;14,6;9,4;20,5;0,2;197;5,4;France;1
+12/11/2022;Italy;Australia;28;27;Florence;Autumn;4,8;1,9;7,4;0;58;51,5;Italy;1
+19/11/2022;Italy;South Africa;21;63;Genoa;Autumn;13,6;12,2;15,4;0;52;14,2;South Africa;0
+19/11/2022;Ireland;Australia;13;10;Dublin;Autumn;5,4;-0,5;9,2;1,7;198;13,7;Ireland;1
+05/02/2023;Italy;France;24;29;Rome;Winter;6,6;2;11,6;0;48;11,9;France;0
+11/02/2023;Ireland;France;32;19;Dublin;Winter;8,8;7,8;11,2;0;217;9,2;Ireland;1
+25/02/2023;Italy;Ireland;20;34;Rome;Winter;15;11,3;17,1;0;180;15,6;Ireland;0
+26/02/2023;France;Scotland;32;21;Saint-Denis;Winter;2,4;0,3;6,6;0;39;29,4;France;1
+11/03/2023;Italy;Wales;17;29;Rome;Spring;13,5;8,3;18;0;129;6,5;Wales;0
+18/03/2023;France;Wales;41;28;Saint-Denis;Spring;12,2;8,3;17;3,3;203;16,8;France;1
+18/03/2023;Ireland;England;29;16;Dublin;Spring;8,4;6,4;11,6;1,1;250;17,7;Ireland;1
+08/07/2023;South Africa;Australia;43;12;Pretoria;Winter;12;4,7;19,7;0;267;13,2;South Africa;1
+08/07/2023;Argentina;New Zealand;12;41;Mendoza;Winter;7,9;0,1;12,9;0;127;9,9;New Zealand;0
+15/07/2023;New Zealand;South Africa;35;20;Auckland;Winter;14,3;13;16,1;2,3;245;22,6;New Zealand;1
+15/07/2023;Australia;Argentina;31;34;Sydney;Winter;18,7;11,3;24,7;0;329;16,4;Argentina;0
+29/07/2023;Australia;New Zealand;7;38;Melbourne;Winter;11,9;10,4;18,3;0;347;19,8;New Zealand;0
+05/08/2023;Argentina;South Africa;13;24;Buenos Aires;Winter;13;10;15;1,7;101;16;South Africa;0
+05/08/2023;Ireland;Italy;33;17;Dublin;Summer;13;10,4;17,3;36,7;3;23,9;Ireland;1
+19/08/2023;Ireland;England;29;10;Dublin;Summer;17,8;15,8;20,7;2,3;200;27,8;Ireland;1
+27/08/2023;France;Australia;41;17;Saint-Denis;Summer;16,2;12,3;20,9;0,2;272;12,3;France;1
